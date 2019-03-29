@@ -1,7 +1,7 @@
 bui# Summary
 
 * [Introduction](README.md)
-* [Research](Research.md)
+* Research
 	* [3D Ternary phase diagram](3D Ternary phase diagram.md)
 		* [Principles](Principles.md)
 		* [Ternary Eutectic System (No Solid Solubility)](Ternary Eutectic System No Solid Solubility.md)
